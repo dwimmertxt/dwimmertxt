@@ -1,5 +1,5 @@
 <img
-  src="dwimmer-Lepidoptera.png"
-  alt="Lepidoptera - text art by dwimmer"
-  title="Lepidoptera"
+  src="DWIMMER-king_of_the_bush_doof.png"
+  alt="king of the bush doof - text art by dwimmer"
+  title="king of the bush doof"
   style="display: inline-block; margin: 0 auto">
